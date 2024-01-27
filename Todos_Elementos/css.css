@@ -1,0 +1,11 @@
+table {
+    max-width: 500px;
+}
+
+time {
+    display: block;
+}
+
+.post {
+    margin-bottom: 24px;
+}
